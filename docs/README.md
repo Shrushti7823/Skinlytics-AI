@@ -1,9 +1,5 @@
 # 🌿 Skinlytix AI
 
-<p align="center">
-  <img src="assets/logo.png" alt="Skinlytix AI Logo" width="150">
-</p>
-
 <h3 align="center">
 AI-Powered Skin Analysis & Personalized Skincare Recommendation System
 </h3>
