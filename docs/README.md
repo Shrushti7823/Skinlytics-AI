@@ -43,7 +43,7 @@ The application combines Machine Learning models with a modern web interface to 
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ## Frontend
 - React
